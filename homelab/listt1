@@ -1,0 +1,32 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8">
+        <title>My Profile</title>
+    </head>
+    <body>
+        <h1>My Profile</h1>
+        <div class="details">
+            <p>
+                <strong>ID:</strong>
+                <span id="id">xxxx</span>
+            </p>
+            <p>
+                <strong>Name:</strong>
+                <span id="name">xxxx</span>
+            </p>
+            <p>
+                <strong>Group No:</strong>
+                <span id="group_no">xxxx</span>
+            </p>
+            <p>
+                <strong>Course Name:</strong>
+                <span id="course_name">xxxx</span>
+            </p>
+            <p><strong>E-mail:</strong>
+                <span id="email">xxxx</span>
+            </p>
+        </div>
+    </body>
+</html>
