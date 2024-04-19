@@ -1,0 +1,6 @@
+
+#table1,#table3{
+    border-style: double;
+    border-color:red;
+    border-radius: 20%;
+}
